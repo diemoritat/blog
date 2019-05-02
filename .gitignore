@@ -1,0 +1,7 @@
+node_modules/
+client/node_modules
+backend/node_modules
+.DS_Store
+*.log
+variables.env
+variables.env.now
